@@ -2,7 +2,7 @@
 
 ## How to install (windows, linux or macos)
 
--   Simply, run `npm run install`
+-   Simply, run `npm i` or `npm install`
 
 ## How to use
 
